@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mian Sahab 10",
-    "slug": "mian-sahab-10",
+    "name": "Mian Saab 10",
+    "slug": "MianSaabPlayers",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": null,
@@ -10,8 +10,17 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "android": {
+      "package": "com.miansahab.players"
+    },
+    "ios": {
+      "bundleIdentifier": "com.miansahab.players"
+    },
     "extra": {
-      "systemCode": "50234"
+      "systemCode": "50234",
+      "eas": {
+        "projectId": "56262b10-8f27-4ac8-ae00-1bb1e908da51"
+      }
     }
   }
 }
