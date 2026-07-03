@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Mian Saab 10",
-    "slug": "MianSaabPlayers",
+    "slug": "miansaabplayersprofile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": null,
@@ -21,6 +21,9 @@
       "eas": {
         "projectId": "56262b10-8f27-4ac8-ae00-1bb1e908da51"
       }
+    },
+    "cli": {
+      "appVersionSource": "remote"
     }
   }
 }
