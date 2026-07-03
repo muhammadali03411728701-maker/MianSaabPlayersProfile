@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Mian Sahab 10",
+    "slug": "mian-sahab-10",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": null,
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "systemCode": "50234"
+    }
+  }
+}
